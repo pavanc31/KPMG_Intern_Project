@@ -6,3 +6,8 @@
 4. Most industry sectors have returned less than $10,00,000 in profits.
 5. The aged customer b/w 38-47 are likely to bring more profits.
 6. Using PowerBi, developed an interactive dashboard for Sprocket Central (the client) to aid in company optimization and target a certain market.
+
+
+# Screen Shot_Dashboard
+
+![Screenshot (122)](https://github.com/pavanc31/KPMG_Intern_Project/assets/132770606/0da60b9f-56e5-4121-8b9d-3dc2e637a8f2)
